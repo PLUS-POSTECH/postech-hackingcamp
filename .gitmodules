@@ -7,3 +7,6 @@
 [submodule "web/xss-demo"]
 	path = web/xss-demo
 	url = git@github.com:betarixm/postech-hackingcamp-xss-demo.git
+[submodule "web/Activity"]
+	path = web/Activity
+	url = git@github.com:betarixm/plt.git
