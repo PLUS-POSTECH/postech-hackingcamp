@@ -1,0 +1,9 @@
+[submodule "web/xss-exercise"]
+	path = web/xss-exercise
+	url = git@github.com:betarixm/postech-hackingcamp-xss-exercise.git
+[submodule "web/csrf-exercise"]
+	path = web/csrf-exercise
+	url = git@github.com:betarixm/postech-hackingcamp-csrf-exercise.git
+[submodule "web/xss-demo"]
+	path = web/xss-demo
+	url = git@github.com:betarixm/postech-hackingcamp-xss-demo.git
